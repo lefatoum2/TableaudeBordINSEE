@@ -19,7 +19,7 @@ app.layout = html.Div(className='main', children=[
         html.H1(children='Etude de la mortalité en France en 2020'),
 
         html.Div(children='''
-        C'est une étude de la mortalité en France selon l'âge et le sexe.
+        C'est une étude de la mortalité en France selon l'âge et le sexe. Source INSEE.
     ''')]),
     # Figure Bar
     html.Div(className='gfg1', children=[
